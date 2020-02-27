@@ -1,0 +1,59 @@
+#note-outer {
+    width: 22vw;
+    height: 66vh;
+    background-color: black;
+    color: aliceblue;
+    position: fixed;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 5px 10px;
+    border-color: black;
+}
+
+#text-box {
+    background-color: white;
+    height: 84%;
+}
+
+.parallax-container {
+    height: 400px;
+}
+
+#sn {
+    margin-top: 5%;
+    padding: 5%;
+}
+
+#sidenav {
+    height: 100%;
+    position: fixed;
+    padding-top: 1%;
+}
+
+.side-bar-element {
+    margin: 3% 0;
+    color: antiquewhite;
+}
+
+.side-bar-element:hover {
+    background-color: #9a2c9e;
+    color: antiquewhite;
+    cursor: pointer;
+}
+
+#dp {
+    padding-top: 1.8%;
+}
+
+#content {
+    margin: 5%;
+}
+
+.details {
+    background-color: azure;
+    border-radius: 10px;
+}
+
+#name {
+    text-transform: uppercase;
+}
